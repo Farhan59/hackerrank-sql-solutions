@@ -1,0 +1,1 @@
+SELECT Name FROM city WHERE Population120000 AND CountryCode = 'USA';
